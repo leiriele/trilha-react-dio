@@ -1,0 +1,12 @@
+[submodule "trilha-react-desafio01-calculadora"]
+	path = trilha-react-desafio01-calculadora
+	url = https://github.com/leiriele/trilha-react-desafio01-calculadora.git
+[submodule "trilha-react-desafio-2"]
+	path = trilha-react-desafio-2
+	url = https://github.com/leiriele/trilha-react-desafio-2.git
+[submodule "trilha-react-desafio-3"]
+	path = trilha-react-desafio-3
+	url = https://github.com/leiriele/trilha-react-desafio-3.git
+[submodule "trilha-react-desafio-4"]
+	path = trilha-react-desafio-4
+	url = https://github.com/leiriele/trilha-react-desafio-4.git
